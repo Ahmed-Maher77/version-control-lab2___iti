@@ -1,2 +1,4 @@
 "change from => main" 
 "change from => dev" 
+"change from => test_git_chery #1" 
+"change from => test_git_chery #2" 
